@@ -1,0 +1,12 @@
+{
+    "pageURL": "http://adobe-uk.businesscatalyst.com/",
+    "host" : "http",
+    "url": "http://chrisakhurst.tt.omtrdc.net/rest/v1/mbox/",
+    "qs": { "client": "chrisakhurst" },
+    "batchUrl": "http://chrisakhurst.tt.omtrdc.net/rest/v1/batchmbox",
+    "imsOrgID": "23D13BC75244578E0A490D4D@AdobeOrg",
+    "apiClientId": "chrisakhurst",
+    "enableDTM": true,
+    "dtmTagUrl": "http://assets.adobedtm.com/9708e57c8de6ec6716f79f649f73ccd0435014fb/satelliteLib-73956fb78a3a18934d9d9faf1e9eab2ade48ecb5-staging.js"
+}
+
